@@ -1,2 +1,2 @@
 # javascript
-It is a sample of js exercises.
+It is sample of js exercises.
